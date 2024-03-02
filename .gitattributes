@@ -2,4 +2,4 @@
 *.d.ts linguist-language=TypeScript
 
 # Text files
-*.ts text=auto
+* text=auto
