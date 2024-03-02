@@ -2,6 +2,8 @@
 
 Definition stubs for types missing from the [ts-defold Library](https://github.com/ts-defold/library).
 
-`git clone https://github.com/thinknathan/tsd-library-stubs`
+Check the [tracking issue for up-to-date info](https://github.com/ts-defold/library/issues/47).
 
-Submit Pull Requests here: https://github.com/ts-defold/library
+## Get started
+
+`git clone https://github.com/thinknathan/tsd-library-stubs`
