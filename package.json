@@ -1,0 +1,10 @@
+{
+	"private": true,
+	"scripts": {
+		"check": "tsc --noEmit"
+	},
+	"devDependencies": {
+		"typescript": "~5.3.3",
+		"typescript-to-lua": "~1.23.0"
+	}
+}

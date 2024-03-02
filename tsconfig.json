@@ -1,0 +1,18 @@
+{
+	"$schema": "https://raw.githubusercontent.com/TypeScriptToLua/TypeScriptToLua/master/tsconfig-schema.json",
+	"compilerOptions": {
+		"lib": ["esnext"],
+		"module": "ES2022",
+		"rootDir": "./",
+		"strict": true,
+		"target": "esnext",
+		"typeRoots": [
+			"./packages",
+			"./node_modules/@ts-defold",
+			"./node_modules/@types",
+			"./node_modules/@typescript-to-lua"
+		],
+		"types": ["language-extensions"]
+	},
+	"exclude": ["./node_modules/*"],
+}
