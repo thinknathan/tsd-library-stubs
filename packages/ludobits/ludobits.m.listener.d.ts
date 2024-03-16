@@ -2,8 +2,8 @@
 
 /**
  * This is a definition stub with incomplete or untested signatures.
- * Contributions to improve the accuracy of these types are welcome.
+ * Contributions are welcome to improve the accuracy of these types.
  * @url https://github.com/ts-defold/library
  * @noResolution
  */
-declare module 'druid.extended.checkbox' {}
+declare module 'ludobits.m.listener' {}
