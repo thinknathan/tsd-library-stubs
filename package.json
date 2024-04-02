@@ -4,7 +4,7 @@
 		"check": "tsc --noEmit"
 	},
 	"devDependencies": {
-		"typescript": "~5.4.2",
-		"typescript-to-lua": "~1.25.0"
+		"@typescript-to-lua/language-extensions": "^1.19.0",
+		"typescript": ">=5.4.2"
 	}
 }
